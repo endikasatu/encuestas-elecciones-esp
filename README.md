@@ -1,4 +1,4 @@
-# Todas las encuestas en España
+# Todas las encuestas en España 🗳️📊
 
 Encuestas para las elecciones Generales, Autonómicas y Locales en España recopiladas por [Endika Nuñez](https://twitter.com/endikasatu) para [TheElectoralReport](https://electoralreport.com).
 
