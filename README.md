@@ -8,7 +8,7 @@ Todos los datos presentes en este repositorio se pueden utilizar libremente y es
 
 ## Los datos
 
-Si buscas realizar una consultad de los datos, todas las encuestas se pueden buscar y visualizar [en este interactivo](https://www.electoralreport.com/encuestas/) de TheElectoralReport.
+Si quieres realizar una consulta de los datos, todas las encuestas se pueden buscar y visualizar [en este interactivo](https://www.electoralreport.com/encuestas/) de TheElectoralReport.
 
 Se han creado numerosos conjuntos de datos en formato .csv. Las encuestas para cada tipo de elección y lugar donde se celebran se almacenan independientemente con el siguiente nombre.
 
