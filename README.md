@@ -41,7 +41,7 @@ Los conjuntos de datos están recopilados por `tipo de elección`en formato .csv
 
 Además de estas variables los conjuntos de datos disponen de numerosas columnas con la intención de voto de cada formación política en cada lugar y tipo de elección.
 
-## ¿Qué es TheElectoral Report?
+## ¿Qué es TheElectoralReport?
 
 TheElectoralReportes un blog independiente y apartidista y no está vinculado a ninguna organización pública ni privada. Creado y editado por [Endika Nuñez](https://twitter.com/endikasatu).
 
