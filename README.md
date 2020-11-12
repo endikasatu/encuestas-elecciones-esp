@@ -13,7 +13,7 @@ Si quieres realizar una consulta de los datos, todas las encuestas se pueden bus
 Se han creado numerosos conjuntos de datos en formato .csv. Las encuestas para cada tipo de elección y lugar donde se celebran se almacenan independientemente con el siguiente nombre.
 
 - **Código Tipo**: EG= Elecciones Generales, EG-C= Elecciones Generales por Circunscripción, EA= Elecciones Autonómicas y EM= Elecciones Municipales
-- **Lugar**: Todas las abreviaturas utilizadas en los códigos de los archivos se pueden encontrar en el archivo Abreviaturas_URL.
+- **Lugar**: Todas las abreviaturas utilizadas en los códigos de los archivos se pueden encontrar en el archivo [Abreviaturas_URL](https://github.com/endikasatu/encuestas-elecciones-esp/blob/master/Abreviaturas_URL.xlsx).
 
 Algunos ejemplos:
 
